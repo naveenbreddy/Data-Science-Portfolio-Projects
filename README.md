@@ -1,4 +1,8 @@
 # Data-Science-Portfolio-Projects
+Latest: Basic Machine learning modeling - SPACESHIP TITANIC dataset - predicting transportation status using Randomf Forest and XGBoost classifier.
+**Kaggle rank of #407 on the first attemp**
+
+
 This reporsitory will be my new project to establish a Data science portfolio and showcase my skills.
 I will follow the following procedure:
 1. Data Exploration in SQL
