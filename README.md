@@ -1,5 +1,5 @@
 # Data-Science-Portfolio-Projects
-Latest: Basic Machine learning modeling - SPACESHIP TITANIC dataset - predicting transportation status using Randomf Forest and XGBoost classifier.
+Latest: Basic Machine learning modeling - SPACESHIP TITANIC dataset - predicting transportation status using Randomf Forest and XGBoost classifier (in End-End ML modeling folder)
 **Kaggle rank of #407 on the first attemp**
 
 
